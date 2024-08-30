@@ -7,11 +7,9 @@ public class UangRun {
         TambahUang uang = new TambahUang();
         uang.getSaldo();
 
-        System.out.println("\nSimpan Uang: Rp.500000");
         uang.simpanUang(500000);  
         uang.getSaldo();
 
-        System.out.println("\nAmbil Uang: Rp.150000");
         uang.ambilUang(150000);
         uang.getSaldo();
     }

@@ -6,7 +6,7 @@ public class Bank {
 
     //konstruktor
     public Bank(int uang){
-        saldo = uang;
+        this.saldo = uang;
     }
 
     //membuat method untuk menyimpan uang

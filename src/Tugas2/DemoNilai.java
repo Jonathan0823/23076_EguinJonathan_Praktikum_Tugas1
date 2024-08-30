@@ -4,7 +4,7 @@ public class DemoNilai {
 
         //membuat objek siswa
         Nilai siswa1 = new Nilai();
-        siswa1.NIM = 1238734;
+        siswa1.NIM = 2310631170076L;
         siswa1.nama = "Andi";
         siswa1.NilaiAbsen = 92;
         siswa1.NilaiTugas = 84;
@@ -13,7 +13,7 @@ public class DemoNilai {
 
         //membuat objek siswa
         Nilai siswa2 = new Nilai();
-        siswa2.NIM = 847359;
+        siswa2.NIM = 2310631170001L;
         siswa2.nama = "Diluc Ragvindr";
         siswa2.NilaiAbsen = 72;
         siswa2.NilaiTugas = 94;

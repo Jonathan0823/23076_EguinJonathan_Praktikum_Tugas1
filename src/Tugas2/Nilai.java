@@ -8,11 +8,13 @@ public class Nilai {
     float NilaiUAS;
     float NilaiAkhir;
 
+    //membuat method untuk menghitung nilai akhir
     float Nilai(){
         NilaiAkhir = (this.NilaiAbsen*10/100)+(this.NilaiTugas*20/100)+(this.NilaiUTS*30/100)+(this.NilaiUAS*40/100);
         return NilaiAkhir;
     }
 
+    //membuat method untuk menampilkan data nilai
     void CetakNilai(){
         System.out.println();
         System.out.println("NIM                    : "+NIM);

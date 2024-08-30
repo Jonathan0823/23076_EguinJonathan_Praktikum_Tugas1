@@ -1,6 +1,8 @@
 package Tugas2;
 public class DemoNilai {
     public static void main(String[] args){
+
+        //membuat objek siswa
         Nilai siswa1 = new Nilai();
         siswa1.NIM = 1238734;
         siswa1.nama = "Andi";
@@ -9,6 +11,7 @@ public class DemoNilai {
         siswa1.NilaiUTS = 75;
         siswa1.NilaiUAS = 67;
 
+        //membuat objek siswa
         Nilai siswa2 = new Nilai();
         siswa2.NIM = 847359;
         siswa2.nama = "Diluc Ragvindr";

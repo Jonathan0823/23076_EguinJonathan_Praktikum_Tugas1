@@ -1,3 +1,4 @@
+package Tugas2;
 public class DemoNilai {
     public static void main(String[] args){
         Nilai siswa1 = new Nilai();

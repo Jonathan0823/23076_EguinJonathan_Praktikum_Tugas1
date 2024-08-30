@@ -1,3 +1,4 @@
+package Tugas2;
 public class Nilai {
     int NIM;
     String nama;

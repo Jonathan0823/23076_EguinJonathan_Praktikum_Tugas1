@@ -1,6 +1,11 @@
+package Bank;
 
-public class TambahUang {
-    int saldo=100000;
+public class Bank {
+    int saldo;
+
+    public Bank(int uang){
+        saldo = uang;
+    }
 
     void simpanUang(int a){
         System.out.println("\nSimpan Uang:Rp. "+a);

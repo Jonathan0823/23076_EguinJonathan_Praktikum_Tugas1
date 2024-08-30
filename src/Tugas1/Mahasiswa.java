@@ -1,3 +1,4 @@
+package Tugas1;
 public class Mahasiswa {
     String nama;
     void membaca(){

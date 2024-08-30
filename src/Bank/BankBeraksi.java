@@ -1,10 +1,11 @@
+package Bank;
 
-public class UangRun {
+public class BankBeraksi {
     public static void main(String[] args) {
 
         System.out.println("Selamat Datang di Bank ABC");
         
-        TambahUang uang = new TambahUang();
+        Bank uang = new Bank(100000);
         uang.getSaldo();
 
         uang.simpanUang(500000);  

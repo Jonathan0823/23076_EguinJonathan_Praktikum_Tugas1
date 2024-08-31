@@ -3,7 +3,7 @@ package Bank;
 public class BankBeraksi {
     public static void main(String[] args) {
 
-        //wellcome message
+        //welcome message
         System.out.println("Selamat Datang di Bank ABC");
         
         //membuat objek Bank

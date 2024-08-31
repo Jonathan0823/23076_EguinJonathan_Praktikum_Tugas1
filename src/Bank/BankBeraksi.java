@@ -3,11 +3,14 @@ package Bank;
 public class BankBeraksi {
     public static void main(String[] args) {
 
+        //wellcome message
         System.out.println("Selamat Datang di Bank ABC");
         
+        //membuat objek Bank
         Bank uang = new Bank(100000);
         uang.getSaldo();
 
+        //memanggil method untuk menyimpan dan mengambil uang lalu mengecek masing -masing saldo
         uang.simpanUang(500000);  
         uang.getSaldo();
 

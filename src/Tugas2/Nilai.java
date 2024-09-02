@@ -1,6 +1,6 @@
 package Tugas2;
 public class Nilai {
-    long NIM;
+    String NIM;
     String nama;
     float NilaiAbsen;
     float NilaiTugas;

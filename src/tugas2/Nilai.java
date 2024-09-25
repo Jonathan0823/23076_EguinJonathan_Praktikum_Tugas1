@@ -1,4 +1,4 @@
-package tugas21;
+package tugas2;
 public class Nilai {
     String NIM;
     String nama;

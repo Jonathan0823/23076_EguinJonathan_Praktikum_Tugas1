@@ -1,4 +1,4 @@
-package tugas21;
+package tugas2;
 public class DemoNilai {
     public static void main(String[] args){
 

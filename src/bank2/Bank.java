@@ -1,4 +1,4 @@
-package bank;
+package bank2;
 
 public class Bank {
     //deklarasi variabel saldo

@@ -1,4 +1,4 @@
-package tugas1;
+package tugas12;
 public class MahasiswaBeraksi {
     public static void main(String[] args){
 
